@@ -1,8 +1,8 @@
 <config>
    <table xmlns="urn:example:clixon">
       <parameter>
-         <name>a</name>
-         <value>42</value>
+         <name>b</name>
+         <value>99</value>
       </parameter>
    </table>
 </config>
